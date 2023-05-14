@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\bin\Release\TestcaseUi.exe.config
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\bin\Release\TestcaseUi.exe
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\bin\Release\TestcaseUi.pdb
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.TestcasesUi.resources
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.Properties.Resources.resources
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.exe
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.pdb
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\bin\Release\TestcaseUi.exe.manifest
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\bin\Release\TestcaseUi.application
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.exe.manifest
+C:\Users\Admin\Desktop\TestcasesUiC#\TestcaseUi\TestcaseUi\obj\Release\TestcaseUi.application
